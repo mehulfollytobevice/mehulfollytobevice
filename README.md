@@ -8,6 +8,12 @@
 -  Fun fact: I love to play drums
 -  Feel free to go through my repositories , you might find something interesting 
 
+## My latest articles:
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 
 ### Connect with me:
 
