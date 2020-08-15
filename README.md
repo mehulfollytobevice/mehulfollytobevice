@@ -18,6 +18,9 @@
 
 ---
 
+[![Mehul's github stats](https://github-readme-stats.vercel.app/api?username=mehulfollytobevice)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 [kaggle]: https://www.kaggle.com/follytobevice
 [linkedin]: https://www.linkedin.com/in/mehul-jain-91a26a194
 
