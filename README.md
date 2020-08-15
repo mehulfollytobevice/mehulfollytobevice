@@ -2,10 +2,11 @@
 
 ## I'm a Student Developer and ML enthusiast!
 
-- 🔭 I’m currently working on several ML and data science projects 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play drums
+-  I’m currently working on several ML and data science projects 
+-  I love creating amazing things using code 
+-  I aspire to become a ML engineer or a Data scientist
+-  Fun fact: I love to play drums
+-  Feel free to go through my repositories , you might find something interesting 
 
 
 ### Connect with me:
