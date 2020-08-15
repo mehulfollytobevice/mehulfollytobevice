@@ -1,4 +1,4 @@
-### Hi there, I'm Mehul - aka [follytobevice] 👋
+### Hi there, I'm Mehul  👋
 
 ## I'm a Student Developer and ML enthusiast!
 
