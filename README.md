@@ -11,6 +11,8 @@
 ---
 ## My latest articles:
 <!-- BLOG-POST-LIST:START -->
+- [Classifying Celestial Objects using Neural Networks](https://medium.com/@mehul_jain/classifying-celestial-objects-using-neural-networks-7495a1aac0c?source=rss-f38f344b8dec------2)
+- [What “Her” teaches us about AI and human relationships](https://medium.com/@mehul_jain/what-her-teaches-us-about-ai-and-human-relationships-195dae72309?source=rss-f38f344b8dec------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
