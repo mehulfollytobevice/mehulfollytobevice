@@ -2,7 +2,7 @@
 
 ## I'm a Student Developer and ML enthusiast!
 
-- 🔭 I’m currently working on a several ML and data science projects 
+- 🔭 I’m currently working on several ML and data science projects 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play drums
