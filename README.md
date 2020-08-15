@@ -11,13 +11,13 @@
 ### Connect with me:
 
 [<img align="left" alt="Mehul Jain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="follytobevice | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="follytobevice | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 
 <br />
 <br />
 
 ---
 
-[instagram]: https://instagram.com/follytobevice
+[kaggle]: https://www.kaggle.com/follytobevice
 [linkedin]: https://www.linkedin.com/in/mehul-jain-91a26a194
 
