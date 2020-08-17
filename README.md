@@ -41,7 +41,7 @@
 
 ---
 
-[![Mehul's github stats](https://github-readme-stats.vercel.app/api?username=mehulfollytobevice)](https://github.com/anuraghazra/github-readme-stats)
+[![Mehul's github stats](github-readme-stats.mehulfollytobevice.vercel.app/api?username=mehulfollytobevice)](https://github.com/mehulfollytobevice/github-readme-stats)
 
 ---
 [kaggle]: https://www.kaggle.com/follytobevice
