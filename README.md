@@ -4,7 +4,7 @@
 
 -  I’m currently working on several ML and data science projects 
 -  I love creating amazing things using code 
--  I aspire to become a ML engineer or a Data scientist
+-  I aspire to become a ML engineer/Data scientist
 -  Fun fact: I love to play drums
 -  Feel free to go through my repositories , you might find something interesting
 - Take a look at my [Resume](https://drive.google.com/file/d/1vbcuKjPuQY8zT0PKgDMFSkhcCgWYg9Pt/view?usp=sharing)
