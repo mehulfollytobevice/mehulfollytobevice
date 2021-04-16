@@ -7,6 +7,7 @@
 -  I aspire to become a ML engineer/Data scientist
 -  Fun fact: I love to play drums
 -  Feel free to go through my repositories , you might find something interesting
+-  Read my blogs at: [Thoughts, code and some mischief](https://mehulfollytobevice.github.io/My_blogs/)
 
 ---
 ## My top projects:
