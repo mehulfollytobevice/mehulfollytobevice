@@ -5,17 +5,17 @@
 -  I’m currently working on several ML and data science projects 
 -  I love creating amazing things using code 
 -  I aspire to become a ML engineer/Data scientist
--  Fun fact: I love to play drums
+-  Fun fact: I love to play drums and Indian classical flute
 -  Feel free to go through my repositories , you might find something interesting
 -  Read my blogs at: [Thoughts, code and some mischief](https://mehulfollytobevice.github.io/My_blogs/)
 
 ---
 ## My top projects:
+- [Image Captioning using Flickr8K dataset](https://github.com/mehulfollytobevice/image_captioning_flickr)
 - [Predicting Employee Attrition Using ANN](https://github.com/mehulfollytobevice/Deep-learning/tree/master/Predicting%20Employee%20Attrition%20Using%20ANN)
 - [COVID-19 Contact Tracer](https://github.com/mehulfollytobevice/COVID-19-Contact-Tracer)
 - [Classification of celestial objects using Deep Neural Networks](https://github.com/mehulfollytobevice/Deep-learning/tree/master/Classification%20of%20Celestial%20Objects%20using%20Deep%20Neural%20Network)
 - [Real or Not disaster tweet prediction](https://github.com/mehulfollytobevice/MachineLearning/tree/master/Random%20Forest%20Classification/Real-or-Not_Disaster_Tweet_Prediction)
-
 ---
 
 ### Languages and Tools:
