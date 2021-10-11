@@ -12,10 +12,10 @@
 ---
 ## My top projects:
 - [Image Captioning using Flickr8K dataset](https://github.com/mehulfollytobevice/image_captioning_flickr)
+- [Judging Books By Their Cover: A Multi-Label Genre Classification System](https://github.com/mehulfollytobevice/genre_classification)
 - [Predicting Employee Attrition Using ANN](https://github.com/mehulfollytobevice/Deep-learning/tree/master/Predicting%20Employee%20Attrition%20Using%20ANN)
 - [COVID-19 Contact Tracer](https://github.com/mehulfollytobevice/COVID-19-Contact-Tracer)
 - [Classification of celestial objects using Deep Neural Networks](https://github.com/mehulfollytobevice/Deep-learning/tree/master/Classification%20of%20Celestial%20Objects%20using%20Deep%20Neural%20Network)
-- [Real or Not disaster tweet prediction](https://github.com/mehulfollytobevice/MachineLearning/tree/master/Random%20Forest%20Classification/Real-or-Not_Disaster_Tweet_Prediction)
 ---
 
 ### Languages and Tools:
