@@ -31,19 +31,26 @@
 </a>
 
 
-### Languages and Tools:
+## Languages and Tools:
+![](https://img.shields.io/badge/Python-0AC97F?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
+![](https://img.shields.io/badge/MySQL-CC6699?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=yellow)
+![](https://img.shields.io/badge/Go-38B2AC?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/SQLite-0081CB?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Firebase-593D88?style=for-the-badge&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/Scikit_Learn-0769AD?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow_Keras-00C7B7?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-4EA94B?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/FastAI-38B2AC?style=for-the-badge&logo=fastai&logoColor=white)
+![](https://img.shields.io/badge/NumPy-430098?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-4285F4?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-E34F26?style=for-the-badge&logo=matplotlib&logoColor=white)
+![](https://img.shields.io/badge/Seaborn-F7DF1E?style=for-the-badge&logo=seaborn&logoColor=black)
+![](https://img.shields.io/badge/Plotly_Dash-43853D?style=for-the-badge&logo=plotly-dash&logoColor=white)
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-
-
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Mehul Jain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="follytobevice | kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
