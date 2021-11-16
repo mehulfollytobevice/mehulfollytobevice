@@ -1,4 +1,6 @@
-### Hi there, I'm Mehul  👋
+
+<h1 align="center">Hi 👋, I'm Mehul</h1>
+<h3 align="center">Final year student at VIT, Vellore</h3>
 
 ## I'm a Student Developer and ML enthusiast!
 
@@ -9,14 +11,12 @@
 -  Feel free to go through my repositories , you might find something interesting
 -  Read my blogs at: [Thoughts, code and some mischief](https://mehulfollytobevice.github.io/My_blogs/)
 
----
 ## My top projects:
 - [Image Captioning using Flickr8K dataset](https://github.com/mehulfollytobevice/image_captioning_flickr)
 - [Judging Books By Their Cover: A Multi-Label Genre Classification System](https://github.com/mehulfollytobevice/genre_classification)
 - [Predicting Employee Attrition Using ANN](https://github.com/mehulfollytobevice/Deep-learning/tree/master/Predicting%20Employee%20Attrition%20Using%20ANN)
 - [COVID-19 Contact Tracer](https://github.com/mehulfollytobevice/COVID-19-Contact-Tracer)
 - [Classification of celestial objects using Deep Neural Networks](https://github.com/mehulfollytobevice/Deep-learning/tree/master/Classification%20of%20Celestial%20Objects%20using%20Deep%20Neural%20Network)
----
 
 ### Languages and Tools:
 
@@ -29,7 +29,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 
----
 
 ### Connect with me:
 
@@ -45,7 +44,6 @@
 
 [![Mehul's github stats](https://github-readme-stats.mehulfollytobevice.vercel.app/api?username=mehulfollytobevice)](https://github.com/mehulfollytobevice/github-readme-stats)
 
----
 [kaggle]: https://www.kaggle.com/follytobevice
 [linkedin]: https://www.linkedin.com/in/mehul-jain-91a26a194
 [instagram]: https://www.instagram.com/follytobevice/
