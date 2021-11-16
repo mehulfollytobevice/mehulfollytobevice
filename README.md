@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Mehul</h1>
 <h3 align="center">Final year student👨‍🎓 at VIT, Vellore</h3>
 
--  I'm currently pursuing my <b>Bachelor's Degree in Computer Science and Engineering from VIT, Vellore.</b>
--  I’m primarily interested in data science and machine learning.
--  I love creating amazing things using code.
--  Fun fact: I play drums and Indian classical flute.
--  Feel free to go through my repositories , you might find something interesting.
--  Read my blogs at: [Thoughts, code and some mischief](https://mehulfollytobevice.github.io/My_blogs/)
+-  🏛 I'm currently pursuing my <b>Bachelor's Degree in Computer Science and Engineering from VIT, Vellore.</b>
+-  🎯 I’m primarily interested in data science and machine learning.
+-  🧩 I love creating amazing things using code.
+-  🥁 Fun fact: I play drums and Indian classical flute.
+-  🖖 Feel free to go through my repositories , you might find something interesting.
+-  ✍️ Read my blogs at: [Thoughts, code and some mischief](https://mehulfollytobevice.github.io/My_blogs/)
 
 ## My top projects:
 - [Image Captioning using Flickr8K dataset](https://github.com/mehulfollytobevice/image_captioning_flickr)
