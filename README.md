@@ -6,6 +6,8 @@
 -  🎯 I’m primarily interested in data science and machine learning.
 -  🧩 I love creating amazing things using code.
 -  🥁 Fun fact: I play drums and Indian classical flute.
+-  🖖 Feel free to go through my repositories , you might find something interesting.
+-  ✍️ Read my blogs at: [Thoughts, code and some mischief](https://mehulfollytobevice.github.io/My_blogs/)
 
 ## ✨ My favorite projects:
 - [Image Captioning using Flickr8K dataset](https://github.com/mehulfollytobevice/image_captioning_flickr)
@@ -13,7 +15,7 @@
 - [Machine Learning Micro-Project Repository](https://github.com/mehulfollytobevice/MachineLearning)
 - [COVID-19 Contact Tracer](https://github.com/mehulfollytobevice/COVID-19-Contact-Tracer)
 
-<p>
+<p align="center">
 <a href="https://github.com/mehulfollytobevice/image_captioning_flickr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehulfollytobevice&repo=image_captioning_flickr&theme=buefy" />
 </a>
@@ -29,7 +31,32 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehulfollytobevice&repo=MachineLearning&theme=buefy" />
 </a>
 </p>
+
+## 🛠Languages and Tools:
+![](https://img.shields.io/badge/Python-0AC97F?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
+![](https://img.shields.io/badge/MySQL-CC6699?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=yellow)
+![](https://img.shields.io/badge/Go-38B2AC?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/SQLite-0081CB?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Firebase-593D88?style=for-the-badge&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/Scikit_Learn-0769AD?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow_Keras-00C7B7?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-4EA94B?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/FastAI-38B2AC?style=for-the-badge&logo=fastai&logoColor=white)
+![](https://img.shields.io/badge/NumPy-430098?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-4285F4?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-E34F26?style=for-the-badge&logo=matplotlib&logoColor=white)
+![](https://img.shields.io/badge/Seaborn-F7DF1E?style=for-the-badge&logo=seaborn&logoColor=black)
+![](https://img.shields.io/badge/Plotly_Dash-43853D?style=for-the-badge&logo=plotly-dash&logoColor=white)
+
 <br />
+<br />
+
+
+| <a href="https://github.com/mehulfollytobevice"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehulfollytobevice&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mehul's github stats" /></a> | <a href="https://github.com/mehulfollytobevice"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulfollytobevice&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">
