@@ -4,6 +4,7 @@
 
 -  🏛 I'm currently pursuing my <b>Bachelor's Degree in Computer Science and Engineering from VIT, Vellore.</b>
 -  🎯 I’m primarily interested in data science and machine learning.
+-  👨‍💻 I'm currently learning Julia.
 -  🧩 I love creating amazing things using code.
 -  🥁 Fun fact: I play drums and Indian classical flute.
 -  🖖 Feel free to go through my repositories , you might find something interesting.
