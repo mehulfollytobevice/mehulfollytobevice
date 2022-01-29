@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Mehul</h1>
 <h3 align="center">Final year student👨‍🎓 at VIT, Vellore</h3>
 
--  🏛 I'm currently pursuing my <b>Bachelor's Degree in Computer Science and Engineering from VIT, Vellore.</b>
--  🎯 I’m primarily interested in data science and machine learning.
--  👨‍💻 I'm learning Julia.
+-  🏛 I am currently pursuing my <b>Bachelor's Degree in Computer Science and Engineering from VIT, Vellore.</b>
+-  🎯 I am primarily interested in data science and machine learning. 
 -  🧩 I love creating amazing things using code.
--  🥁 Fun fact: I play drums and Indian classical flute.
+-  👨‍💻 I am super excited about learning [Julia](https://julialang.org/).
+-  🥁 Fun fact: I am an amateur drummer and flutist.
 -  🖖 Feel free to go through my repositories , you might find something interesting.
 -  ✍️ Read my blogs at: [Thoughts, code and some mischief](https://mehulfollytobevice.github.io/My_blogs/)
 
