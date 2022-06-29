@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Mehul</h1>
-<h3 align="center">Final year student👨‍🎓 at VIT, Vellore</h3>
+<h3 align="center">Incoming Graduate Student at Northeastern University, Boston</h3>
 
--  🏛 I am currently pursuing my <b>Bachelor's Degree in Computer Science and Engineering from VIT, Vellore.</b>
+-  🏛 I am an incoming graduate student at Northeastern University, Boston pursuing my <b>Master's Degree in Data Science.</b>
 -  🎯 I am primarily interested in data science and machine learning. 
 -  🧩 I love creating amazing things using code.
 -  👨‍💻 I am super excited about learning [Julia](https://julialang.org/).
