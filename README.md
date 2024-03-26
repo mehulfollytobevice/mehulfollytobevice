@@ -5,29 +5,26 @@
 -  🏛 I am a graduate student at Northeastern University, Boston pursuing my <b>Master's Degree in Data Science.</b>
 -  🎯 I am primarily interested in data science and machine learning. 
 -  🧩 I love creating amazing things using code.
--  👨‍💻 I am super excited about learning [Julia](https://julialang.org/).
 -  🥁 Fun fact: I am an amateur drummer and flutist.
 -  🖖 Feel free to go through my repositories , you might find something interesting.
 -  ✍️ Read my blogs at: [Thoughts, code and some mischief](https://mehulfollytobevice.github.io/My_blogs/)
 
 ## ✨ My favorite projects:
+- [AI Story Generator](https://github.com/mehulfollytobevice/AI-Story-Generator)
 - [Image Captioning using Flickr8K dataset](https://github.com/mehulfollytobevice/image_captioning_flickr)
 - [Judging Books By Their Cover: A Multi-Label Genre Classification System](https://github.com/mehulfollytobevice/genre_classification)
 - [Machine Learning Micro-Project Repository](https://github.com/mehulfollytobevice/MachineLearning)
-- [COVID-19 Contact Tracer](https://github.com/mehulfollytobevice/COVID-19-Contact-Tracer)
 
 <p align="center">
+<a href="https://github.com/mehulfollytobevice/AI-Story-Generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehulfollytobevice&repo=AI-Story-Generator&theme=buefy" />
+</a>
 <a href="https://github.com/mehulfollytobevice/image_captioning_flickr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehulfollytobevice&repo=image_captioning_flickr&theme=buefy" />
 </a>
 <a href="https://github.com/mehulfollytobevice/genre_classification">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehulfollytobevice&repo=genre_classification&theme=buefy" />
 </a>
-
-<a href="https://github.com/mehulfollytobevice/COVID-19-Contact-Tracer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehulfollytobevice&repo=COVID-19-Contact-Tracer&theme=buefy" />
-</a>
-
 <a href="https://github.com/mehulfollytobevice/MachineLearning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehulfollytobevice&repo=MachineLearning&theme=buefy" />
 </a>
@@ -63,7 +60,6 @@
 <p align="center">
 <a target="_blank"href="https://www.linkedin.com/in/mehul-jain-91a26a194"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mehul.jain.codedev@gmail.com?subject=Hello%20Mehul,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/follytobevice/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/follytobevice"><img src="https://img.shields.io/badge/kaggle-%27D1203.svg?&style=for-the-badge&logo=kaggle&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
