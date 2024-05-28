@@ -7,7 +7,7 @@
 -  🧩 I love creating amazing things using code.
 -  🥁 Fun fact: I am an amateur drummer and flutist.
 -  🖖 Feel free to go through my repositories , you might find something interesting.
--  ✍️ Read my blogs at: [Thoughts, code and some mischief](https://mehulfollytobevice.github.io/My_blogs/)
+-  ✍️ Read my blogs at: [Thoughts, Code and Mischief](https://mehulfollytobevice.github.io/my_blogs2/)
 
 ## ✨ My favorite projects:
 - [AI Story Generator](https://github.com/mehulfollytobevice/AI-Story-Generator)
