@@ -50,11 +50,6 @@
 ![](https://img.shields.io/badge/Plotly_Dash-43853D?style=for-the-badge&logo=plotly-dash&logoColor=white)
 
 <br />
-<br />
-
-
-| <a href="https://github.com/mehulfollytobevice"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehulfollytobevice&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mehul's github stats" /></a> | <a href="https://github.com/mehulfollytobevice"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulfollytobevice&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">
