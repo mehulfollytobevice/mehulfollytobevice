@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Mehul</h1>
-<h3 align="center">Graduate Student at Northeastern University, Boston</h3>
+<h3 align="center">MS in Data Science from Northeastern University, Boston</h3>
 
--  🏛 I am a graduate student at Northeastern University, Boston pursuing my <b>Master's Degree in Data Science.</b>
--  🎯 I am primarily interested in data science and machine learning. 
+-  🏛 I am a recent grad from Northeastern University, Boston with a <b>Master's Degree in Data Science.</b>
+-  🎯 I am primarily interested in MLOps, LLMs and Time Series Forecasting. 
 -  🧩 I love creating amazing things using code.
 -  🥁 Fun fact: I am an amateur drummer and flutist.
 -  🖖 Feel free to go through my repositories , you might find something interesting.
