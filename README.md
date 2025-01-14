@@ -1,15 +1,34 @@
 
 <h1 align="center">Hi 👋, I'm Mehul</h1>
-<h3 align="center">MS in Data Science from Northeastern University, Boston</h3>
 
--  🏛 I am a recent grad from Northeastern University, Boston with a <b>Master's Degree in Data Science.</b>
--  🎯 I am primarily interested in MLOps, LLMs and Time Series Forecasting. 
--  🧩 I love creating amazing things using code.
--  🥁 Fun fact: I am an amateur drummer and flutist.
--  🖖 Feel free to go through my repositories , you might find something interesting.
--  ✍️ Read my blogs at: [Thoughts, Code and Mischief](https://mehulfollytobevice.github.io/my_blogs2/)
+## About Me
+I am a Data Scientist with a passion for MLOps, Large Language Models, and Time Series Forecasting. With a Master's Degree in Data Science from Northeastern University, Boston, I bring a robust academic foundation to my professional endeavors.
 
-## ✨ My favorite projects:
+## 🛠 Technical Skills
+- **Languages**: Python, R, SQL, Java
+- **Frameworks**: TensorFlow, PyTorch, Pandas, NumPy, Scikit-Learn, Fast AI, Hugging Face, Matplotlib, Seaborn, Streamlit, Beautiful Soup, PyTest, MyPy, Prophet, NeuralForecast, HyperOpt, Optuna
+- **Cloud Platforms**: Azure, GCP, AWS
+- **MLOps Tools**: MLflow, Airflow, Kubeflow, Docker, FastAPI, ELK Stack, DVC, CI/CD
+- **Data Management Visualization**: SQL server, MySQL, MongoDB, NoSQL, BigQuery, PySpark, dbt, Tableau, Power BI, Excel, Git, D3.js, Observable
+
+## 🎯 Current Focus
+- Implementing state-of-the-art LLM architectures
+- Developing robust time series based models for various industries
+- Exploring advanced MLOps practices for efficient model deployment and monitoring
+
+## 🎓 Education
+- **Master of Science in Data Science** - Northeastern University, Boston
+- **Bachelor of Science in Computer Science** - Vellore Institute of Technology, Vellore
+
+## 🎵 Fun Facts
+- 🥁 Amateur drummer and flutist
+- 🧩 Passionate about solving complex puzzles through code
+- 📚 Avid reader of sci-fi, philosophy and popular science books
+- ✍️ Read my blogs at: [Thoughts, Code and Mischief](https://mehulfollytobevice.github.io/my_blogs2/)
+
+Feel free to explore my repositories and reach out for collaborations or interesting discussions!
+
+## ✨ Key Projects:
 - [AI Story Generator](https://github.com/mehulfollytobevice/AI-Story-Generator)
 - [Image Captioning using Flickr8K dataset](https://github.com/mehulfollytobevice/image_captioning_flickr)
 - [Judging Books By Their Cover: A Multi-Label Genre Classification System](https://github.com/mehulfollytobevice/genre_classification)
