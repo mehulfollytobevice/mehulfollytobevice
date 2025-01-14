@@ -15,21 +15,6 @@
 - [Judging Books By Their Cover: A Multi-Label Genre Classification System](https://github.com/mehulfollytobevice/genre_classification)
 - [Machine Learning Micro-Project Repository](https://github.com/mehulfollytobevice/MachineLearning)
 
-<p align="center">
-<a href="https://github.com/mehulfollytobevice/AI-Story-Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehulfollytobevice&repo=AI-Story-Generator&theme=buefy" />
-</a>
-<a href="https://github.com/mehulfollytobevice/image_captioning_flickr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehulfollytobevice&repo=image_captioning_flickr&theme=buefy" />
-</a>
-<a href="https://github.com/mehulfollytobevice/genre_classification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehulfollytobevice&repo=genre_classification&theme=buefy" />
-</a>
-<a href="https://github.com/mehulfollytobevice/MachineLearning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehulfollytobevice&repo=MachineLearning&theme=buefy" />
-</a>
-</p>
-
 ## 🛠Languages and Tools:
 ![](https://img.shields.io/badge/Python-0AC97F?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
