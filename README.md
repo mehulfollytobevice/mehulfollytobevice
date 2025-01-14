@@ -18,7 +18,7 @@ I am a Data Scientist with a passion for MLOps, Large Language Models, and Time 
 
 ## 🎓 Education
 - **Master of Science in Data Science** - Northeastern University, Boston
-- **Bachelor of Science in Computer Science** - Vellore Institute of Technology, Vellore
+- **Bachelor of Technology in Computer Science** - Vellore Institute of Technology, Vellore
 
 ## 🎵 Fun Facts
 - 🥁 Amateur drummer and flutist
