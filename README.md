@@ -3,8 +3,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mehuljain22/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:mehul.jain.codedev@gmail.com?subject=Hello%20Mehul,%20From%20Github"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
   <a href="https://www.kaggle.com/follytobevice"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   &nbsp;
   <a href="https://mehulfollytobevice.github.io/my_blogs2/"><img src="https://img.shields.io/badge/Blog-111827?style=for-the-badge&logo=markdown&logoColor=white" alt="Blog" /></a>
